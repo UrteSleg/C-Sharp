@@ -1,0 +1,20 @@
+Unikalių žodžių esančių tik pirmame faile kiekis: 18
+10 daugiausiai paskiartojančių unikalių žodžių esančių tik pirmame faile
+Maecenas, 1
+accumsan, 1
+tellus, 1
+risus, 1
+tristique, 1
+vestibulum, 1
+Phasellus, 1
+pharetra, 1
+erat, 1
+eu, 1
+
+Unikalių žodžių esančių abiejuose failuose kiekis: 4
+10 daugiausiai paskiartojančių unikalių žodžių esančių abiejuose failuose
+at, 2
+labas, 2
+viso, 2
+vel, 2
+
