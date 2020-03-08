@@ -1,0 +1,7 @@
+Upe;Upynas;123
+Ezeras;Ezerynas;118
+Marsa;Marsynas;129
+Vanduo;Vandenynas;167
+Telkinys;Telkinynas;133
+Kanalas;Kanalynas;130
+Tvenkiniai;Tvenkinynai;183
