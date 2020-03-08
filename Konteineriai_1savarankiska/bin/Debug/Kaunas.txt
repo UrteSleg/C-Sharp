@@ -1,0 +1,16 @@
+Kaunas
+D,Reksas,Buldogas,Jonas,867424992,2015-07-24,823,TRUE
+C,Morkus,Siamo,Antanas,865412654,2014-11-24,658
+D,Keksas,Taksas,Petras,866612345,2014-12-01,456,FALSE
+C,Pukë,Siamo,Petras,866612345,2014-12-05,656
+C,Taira,Rusø mëlynoji,Dangira,861253226,2012-05-11,382
+P,Keksas,Taksas,Marytë,866612345,2014-12-01
+C,Tigris,Bengalijos,Juozas,867892544,2013-07-21,848
+C,Miaukis,Britø trumpapalukës,Ona,861588345,2010-11-04,572
+P,Morkus,Siamo,Jonas,865412654,2014-11-24
+D,Miledi,Jorkðyro terjeras,Aurelija,867897315,2010-11-14,541,FALSE
+D,Farlis,Sibiro haskis,Artûras,8687990321,2015-01-02,921,FALSE
+D,Agatas,Sibiro haskis,Artûras,8687990321,2015-01-02,922,FALSE
+D,Meðkis,Laika,Gintas,869811065,2012-04-12,534,TRUE
+P,Meðkis,Laika,Marija,869811065,2012-04-12
+D,Bumsis,Biglis,Donata,861489752,2011-03-25,724,FALSE

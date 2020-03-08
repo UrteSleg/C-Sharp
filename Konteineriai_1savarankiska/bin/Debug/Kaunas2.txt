@@ -1,0 +1,17 @@
+Kaunas
+D,Dagas,Rotveileris,Gytis,867424242,2014-04-24,384,TRUE
+D,Princ?,Jorkðyro terjeras,Augustë,861812330,2014-03-01,842,FALSE
+C,Murks?,Birmos,Marytë,861855881,2010-08-05,325
+C,Rainys,Amerikos riestaausës,Aldona,861492532,2011-02-26,892
+D,Muchtaras,Vokieèiø aviganis,Ramûnas,861259722,2012-04-15,126,FALSE
+D,Haris,Taksas,Sigitas,861933521,2015-04-25,458,FALSE
+P,Rainys,Amerikos riestaausës,Gitana,861492532,2011-02-26
+D,Bartas,Senbernaras,Jonas,867966613,2007-10-29,475,FALSE
+D,Mili,Jorkðyro terjeras,Deimantë,861390453,2014-11-12,892,FALSE
+D,Cezaris,Bulterjeras,Rytis,869867981,2013-04-12,264,TRUE
+P,Burbulas,Persø,Algirdas,869755231,2012-08-16
+C,Ramzis,Egipto Mau,Ingrida,864932156,2013-08-30,924
+C,Artis,Britø trumpaplaukë,Monika,864932156,2010-03-05,354
+C,Dit?,Sfinksas,Danguolë,861292031,2012-09-08,821
+C,Burbul?,Persø,Austëja,869755231,2012-08-16,382
+C,Lat?,Siamo,Ramunë,867855664,2013-12-04,435
