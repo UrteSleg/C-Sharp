@@ -1,0 +1,4 @@
+LKOD1,LeidPav1,1.58
+LKOD2,LeidPav2,1.21
+LKOD3,LeidPav3,4.60
+LKOD4,LeidPav4,3.65

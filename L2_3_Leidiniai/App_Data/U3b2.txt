@@ -1,0 +1,4 @@
+Paakjaer,Veiksmo g.91,11,2,LKOD2,5
+Abarius,Metu g.90,9,8,LKOD4,3
+Vabelkis,Ribos g.24,2,5,LKOD2,9
+Abramavicius,Leidiniu g.70,10,9,LKOD2,5

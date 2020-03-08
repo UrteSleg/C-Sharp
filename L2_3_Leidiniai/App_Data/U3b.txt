@@ -1,0 +1,5 @@
+Labadauskas,Leidiniu g. 1,1,4,LK789245,1
+Dabakanauskis,Zmoniu g. 1,8,10,LK364654,3
+Abakanavicius,Uzsisakinetoju g.5,4,1,LK823687,3
+Gabakas,Spaudos g.6,4,1,LK656546,1
+Nabakevicius,Uzsakymu g. 12,11,3,LK656546,7
