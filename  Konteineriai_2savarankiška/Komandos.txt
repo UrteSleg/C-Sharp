@@ -1,4 +1,0 @@
-Zalgiris,Kaunas,Saras Jasikevicius,45
-Lietuvos Rytas,Vilnius,Tomas Patinas,25
-Banga,Gargzai,Edmundas Vilimas,30
-Ekranas,Panevezys,Urbonas,27
