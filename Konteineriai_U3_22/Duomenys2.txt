@@ -1,0 +1,23 @@
+﻿BigBox.lt
+Savanoriu pr.,441B Kaunas
+866000200
+M,SAMSUNG,ME87M/BAL,A++,Pilka,85,800W,3
+M,BEKO,MOC20100S,A+,Pilka,50,700W,4
+M,SAMSUNG,GE83DT-1/BAL,A++,Pilka,86,800W,6
+V,Russell Hobbs,21670-70,A++,Raudona,50,2400W,1.7
+S,SAMSUNG,RB33J3215WWEF,A++,Balta,370,240,Pastatomas,TuriSaldikli
+V,Bosch,TWK8613P,A++,Juoda,58,2000W,1.5
+M,MIELE,M6260TCD,A+++,Pilka,800,800W,3
+S,LG,GBB59PZFZS,A++,Balta,430,225,Pastatomas,TuriSaldikli
+V,Carrera,551,A+++,Pilka,120,2200W,1.7
+M,BEKO,MOF23110X,A++,Juoda,80,900W,4
+S,BEKO,CSA240K21XP,A+,Sidabrine,142,220,Pastatomas,TuriSaldikli
+S,AEG,SCE81826TS,A++,Balta,580,240,Imontuojamas,TuriSaldikli
+M,SAMSUNG,ME83D-1/BAL,A++,Juoda,66,850W,6
+S,BOSCH,KIS87AF30,A++,Balta,645,225,Imontuojamas,TuriSaldikli
+S,BOSCH,KGV36VW32,A++,Balta,220,215,Pastatomas,TuriSaldikli
+S,SIEMENS,KG39NVI45,A+++,Pilka,877,279,Pastatomas,TuriSaldikli
+V,Russell Hobbs,21672-70,A++,Kreminis,56,2400W,1.7
+M,SHARP,R242IN,A+,Balta,59,800W,3
+M,BEKO,MGC20100S,A+,Pilka,59,240W,4
+M,BEKO,MOC20100W,A+,Balta,52,800W,6

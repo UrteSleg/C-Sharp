@@ -1,0 +1,17 @@
+﻿Topo Centras
+Savanoriu pr. 206A, Kaunas
+866000200
+M,Scancool,MIR20B,A++,Juoda,108,800W,3
+M,Samsung,GE83X,A+,Pilka,92,900W,4
+S,SHARP,SJXP680GBK,A++,Juoda,1000,407,Pastatomas,TuriSaldikli,160,67,54
+V,Esperanza,EKK004S,A+,Balta,6,2200W,1.8
+M,Beko,MOC20100W,A+,Balta,54,700W,6
+V,ESPERANZA,TKK001S,A+,Balta,6,1800W,1.8
+S,BOSCH,KGV36VW32,A++,Balta,220,215,Pastatomas,TuriSaldikli,190,65,36
+S,AEG,SCE81826TS,A++,Balta,580,240,Imontuojamas,TuriSaldikli,79,45,34
+V,ADLER,AD 1225,A+,Juoda,13,2000W,1.7
+S,BOSCH,KIS87AF30,A++,Balta,645,225,Imontuojamas,TuriSaldikli,198,76,49
+S,SIEMENS,KG39NVI45,A+++,Pilka,877,279,Pastatomas,TuriSaldikli,178,65,45
+M,Sharp,R-242W,A+,Balta,64,800W,3
+M,SHARP,R-200WW,A+,Balta,62,800W,4
+V,FORME,FKG-418,A+,Pilka,19,2200W,1.8

@@ -1,0 +1,15 @@
+Senukai.lt
+Kareiviu g. 11, Vilnius 09108
+870011119
+S,BOSCH,KGE36AW42,A+++,Balta,500,279,Pastatomas,TuriSaldikli,160,120,30
+M,Gorenje,MO20KARIM,A++,Balta,180,800W,8
+V,BOSCH,TWK 7801,A+,Pilka,31,1850W,1.7
+S,SAMSUNG,RB29FERNDSAEF,A++,Balta,355,98,Pastatomas,TuriSaldikli,211,134,67
+S,BOSCH,KGV36VW32,A++,Balta,199,215,Pastatomas,TuriSaldikli,168,110,76
+V,BOSCH,TWK 7808,A++,Auksinis,35,1850W,1.7
+S,SIEMENS,KG39NVI45,A+++,Pilka,877,279,Pastatomas,TuriSaldikli,187,120,64
+M,Beko,MGC20100S,A++,Pilka,60,1200W,9
+S,BOSCH,KIS87AF30,A++,Balta,645,225,Imontuojamas,TuriSaldikli,170,90,54
+V,URTICA,1700-1,A+,Pilka,41,2200W,1.7
+M,Beko,MGC20100W,A+,Balta,75,1200W,9
+M,Bosch,HMT75G451,A++,Pilka,150,1270W,8
