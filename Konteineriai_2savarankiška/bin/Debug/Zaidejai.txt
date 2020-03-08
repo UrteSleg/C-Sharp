@@ -1,0 +1,21 @@
+K,Zalgiris,Lekavicius,Lukas,21,10,9,6
+K,Lietuvos Rytas,Piliauskas,Aistis,16,12,3,3
+F,Banga,Kura,Mikas,10,3,2
+K,Zalgiris,Seibutis,Renaldas,15,7,6,2
+K,Zalgiris,Motum,Brock,16,2,13,5
+K,Lietuvos Rytas,Lavrinovic,Ksystof,25,12,13,6
+K,Zalgiris,Jankunas,Paulius,30,15,15,2
+F,Banga,Gudauskas,Mantas,30,15,10
+K,Lietuvos Rytas,Gailius,Deivydas,23,12,17,10
+K,Zalgiris,Javtokas,Robertas,45,30,15,20
+K,Zalgiris,Sajus,Martynas,15,3,5,6
+K,Lietuvos Rytas,Orelikas,Gediminas,10,3,2,3
+F,Banga,Bitinas,Mindaugas,15,3,2
+F,Ekranas,Apanavicius,Vytautas,25,5,3
+F,Ekranas,Bisys,Fulgentas,22,4,1
+F,Ekranas,Butkus,Darius,20,6,2
+F,Ekranas,Cesnauskis,Deividas,15,4,3
+F,Ekranas,Cesnauskis,Edgaras,14,5,2
+F,Ekranas,Gardzijauskas,Mindaugas,20,3,3
+F,Ekranas,Gleveckas,Dainius,27,5,3
+F,Banga,Urbaitis,Karolis,20,0,12
